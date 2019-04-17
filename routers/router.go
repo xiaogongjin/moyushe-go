@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/xiaogongjin/moyushe-go/controllers"
+	"moyushe/controllers"
 	"github.com/astaxie/beego"
 )
 

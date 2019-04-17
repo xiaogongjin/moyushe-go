@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/xiaogongjin/moyushe-go/routers"
+	_ "moyushe/routers"
 	"github.com/astaxie/beego"
 )
 
